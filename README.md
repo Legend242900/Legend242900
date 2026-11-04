@@ -16,35 +16,35 @@ I enjoy creating Minecraft resource packs, experimenting with technology, and ex
 
 ## 📦 My Projects
 
-Check out some of my Minecraft projects:
+Some of my Minecraft projects:
 
 - 🔥 [Low Fire](https://modrinth.com/project/low-fire-legend242900)
-- 💎 [Visible Ores](https://modrinth.com/user/Legend242900)
-- 🌌 [Radiance Shaders](https://modrinth.com/user/Legend242900)
-- 🎨 [Dark GUI](https://modrinth.com/user/Legend242900)
-- ⚙️ [FlameFrags Essentials](https://modrinth.com/user/Legend242900)
-
-**More projects:** [My Modrinth Profile](https://modrinth.com/user/Legend242900)
-
-## 🛠️ Interests & Technologies
+- 💎 [Visible Ores](https://modrinth.com/resourcepack/visible-ores-legend242900)
+- 🌌 [Radiance Shaders](https://modrinth.com/shader/radiance-shaders)
+- 🎨 [Dark GUI](https://modrinth.com/resourcepack/dark-gui.)
+- ⚙️ [FlameFrags Essentials](https://modrinth.com/resourcepack/flamefrags-essentials)
+## 🛠️ Interests
 
 - Minecraft Resource Packs
 - Minecraft Shaders
-- GitHub
 - Technology & Gaming
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legend242900&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend242900&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+- Software and Development
 
 ## 🌐 Find Me
 
-- 🟢 **Modrinth:** [Legend242900](https://modrinth.com/user/Legend242900)
-- 💬 **Discord:** `@legend242900`
-- 🐙 **GitHub:** [Legend242900](https://github.com/Legend242900)
+<p align="left">
+  <a href="https://modrinth.com/user/Legend242900">
+    <img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
+  </a>
+  <a href="https://www.curseforge.com/members/legend242900/projects">
+    <img src="https://img.shields.io/badge/CurseForge-f16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge">
+  </a>
+  <a href="https://github.com/Legend242900">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+**Discord:** `@legend242900`
 
 ---
 
