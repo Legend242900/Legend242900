@@ -18,11 +18,12 @@ I enjoy creating Minecraft resource packs, experimenting with technology, and ex
 
 Some of my Minecraft projects:
 
-- 🔥 [Low Fire](https://modrinth.com/project/low-fire-legend242900)
+- ⚙️ [FlameFrags Essentials](https://modrinth.com/resourcepack/flamefrags-essentials)
 - 💎 [Visible Ores](https://modrinth.com/resourcepack/visible-ores-legend242900)
 - 🌌 [Radiance Shaders](https://modrinth.com/shader/radiance-shaders)
 - 🎨 [Dark GUI](https://modrinth.com/resourcepack/dark-gui.)
-- ⚙️ [FlameFrags Essentials](https://modrinth.com/resourcepack/flamefrags-essentials)
+- 🔥 [Low Fire](https://modrinth.com/project/low-fire-legend242900)
+
 ## 🛠️ Interests
 
 - Minecraft Resource Packs
