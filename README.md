@@ -40,6 +40,9 @@ Some of my Minecraft projects:
   <a href="https://www.curseforge.com/members/legend242900/projects">
     <img src="https://img.shields.io/badge/CurseForge-f16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge">
   </a>
+  <a href="https://mcpedl.com/user/legend242900/">
+    <img src="https://img.shields.io/badge/MCPEDL-3B82F6?style=for-the-badge&logo=minecraft&logoColor=white" alt="MCPEDL">
+  </a>
   <a href="https://github.com/Legend242900">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -52,3 +55,5 @@ Some of my Minecraft projects:
 <p align="center">
   <i>Creating, experimenting, and improving — one project at a time.</i>
 </p>
+</p>
+
